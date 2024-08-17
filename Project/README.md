@@ -38,10 +38,3 @@ The project includes the following key functionalities:
 
 5. **Display Table**:
    - Retrieves and displays all records from a specified table in a tabular format.
-
-## Setup and Usage
-
-1. **Clone the Repository**:
-   To access the files locally, clone the repository using:
-   ```bash
-   git clone https://github.com/your-username/DataBase_Management_Project.git
