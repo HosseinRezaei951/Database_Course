@@ -1,11 +1,11 @@
-# DataBase Course
+# Database Course
 
-Welcome to the DataBase Course repository. This repository contains coursework and projects related to database management and PHP development.
+Welcome to the Database Course repository. This repository contains coursework and projects related to database management and PHP development.
 
 ## Directory Structure
 
 ### Project
-
+c
 The `Project` directory includes the implementation of a PHP-based database management system:
 
 - **index.php**: The main PHP file for the project. It provides functionality for:
